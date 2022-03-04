@@ -1,2 +1,2 @@
-# group_project_proposal
-Group Project Proposal for DSCI100
+# group_project
+Group Project for DSCI100
